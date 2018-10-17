@@ -173,7 +173,7 @@ if __name__ == '__main__':
     lista_papeis.append(Papel("EQTL3F", 58.22))
     lista_papeis.append(Papel("BBAS3F", 37.71))
     lista_papeis.append(Papel("ABEV3F", 16.98))
-    lista_papeis.append(Papel("TUPY3F", 18.30))
+    lista_papeis.append(Papel("TUPY3F", 18.33))
     parte = 1 / len(lista_papeis)
 
     valores = []
